@@ -1,1 +1,1 @@
-# safegen-documentation
+# SafeGen Documentation
